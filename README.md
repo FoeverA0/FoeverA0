@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ✌ &nbsp; "he" | "him"
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; A bachelor student at <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>, majoring in Computer Science.
 - 💼 &nbsp; Working as a Full-stack engineer & Fintech research assistant at Digital Financial Services Research Center Limited.
